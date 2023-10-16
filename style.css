@@ -2,6 +2,19 @@ h1 {
     color:blue;
 }
 
-p {
-    color:green;
+body {
+    
+
+
+.firstparagraph {
+    background-color: green; 
+    font-family: Arial, Helvetica, sans-serif; color: purple; padding: 25px;
 }
+
+.list{
+    border: 2px solid orange;
+    padding: 18px;
+    color: red;
+}
+
+} 
